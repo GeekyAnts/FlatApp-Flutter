@@ -1,20 +1,18 @@
 # FlatApp-Flutter
 
-A new Flutter project from GeekyAnts.
+A new open-source Flutter project from GeekyAnts that enables the developer to quickly get started with the Flutter application development. We have recreated a few screens of our famous React Native Starter Kit in Flutter!
 
-This app is a free open source project that enables the developer to quickly get started with the Flutter application development. We have recreated few screens of our famous React Native Starter Kit in Flutter!
-
-This project contains the basic features that are required to built an amazing Flutter application.
+This project contains the basic features that are required to build an amazing Flutter application.
 
 # Demo
 ![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
 
 ## Getting Started
-Note: Make sure your Flutter environment is setup.
+**Note:** Make sure your Flutter environment is setup.
 
 #### Installation
 
-In the command terminal run the following commands
+In the command terminal, run the following commands:
 
     $ git clone git@github.com:GeekyAnts/FlatApp-Flutter.git
     $ cd FlatApp-Flutter/
