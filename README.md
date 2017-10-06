@@ -1,5 +1,5 @@
 # Demo
-![Demo](https:/https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
+![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
 # FlatApp-Flutter
 
 A new Flutter project.
