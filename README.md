@@ -1,11 +1,12 @@
-# Demo
-![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
 # FlatApp-Flutter
 
 A new Flutter project.
 We have written few pages of our famous React Native Starter Kit in Flutter! And we are quite impressed with the result.
 
 This app is a free open source project that enables the developer to quickly get started with the flutter application development. This project contains the basic features that is required to built an amazing flutter application.
+
+# Demo
+![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
 
 ## Getting Started
 
@@ -35,6 +36,6 @@ On the command prompt run the following commands
     Run the following command in your terminal.
     $ flutter run
 
-##### For help getting started with Flutter, view our online [documentation](http://flutter.io/).
+##### For help getting started with Flutter, view online [documentation](http://flutter.io/).
 
 
