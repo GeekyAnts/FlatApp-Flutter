@@ -7,6 +7,14 @@ This project contains the basic features that are required to build an amazing F
 # Demo
 ![Demo](https://github.com/GeekyAnts/FlatApp-Flutter/raw/master/screenshots/FlatApp-TwoScreens.gif)
 
+
+## About
+
+   FlatApp template in Flutter by [GeekyAnts](https://geekyants.com?utm_source=github&utm_medium=opensource&utm_campaign=flatapp-flutter).
+
+   [Hire Flutter developers](https://geekyants.com/hire-flutter-developers?utm_source=github&utm_medium=opensource&utm_campaign=flatapp-flutter)
+   for your next project.
+
 ## Getting Started
 **Note:** Make sure your Flutter environment is setup.
 
